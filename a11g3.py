@@ -1,4 +1,4 @@
-import presentacion as hi
+from funciones import  presentacion as saludo
 
 # llamo a la función presentación
-hi.presentacion()
+saludo.presentacion()
